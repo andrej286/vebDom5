@@ -1,1 +1,22 @@
-
+<https://github.com/andrej286/vebDom5.git> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument> .
+<https://github.com/andrej286/vebDom5.git> <http://xmlns.com/foaf/0.1/maker> <https://github.com/andrej286/vebDom5.git#me> .
+<https://github.com/andrej286/vebDom5.git> <http://xmlns.com/foaf/0.1/primaryTopic> <https://github.com/andrej286/vebDom5.git#me> .
+<https://github.com/andrej286/vebDom5.git> <http://webns.net/mvcb/generatorAgent> <http://www.ldodds.com/foaf/foaf-a-matic> .
+<https://github.com/andrej286/vebDom5.git> <http://webns.net/mvcb/errorReportsTo> <mailto:leigh@ldodds.com> .
+<https://github.com/andrej286/vebDom5.git#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<https://github.com/andrej286/vebDom5.git#me> <http://xmlns.com/foaf/0.1/name> "Andrej Stojanovski" .
+<https://github.com/andrej286/vebDom5.git#me> <http://xmlns.com/foaf/0.1/title> "Mr" .
+<https://github.com/andrej286/vebDom5.git#me> <http://xmlns.com/foaf/0.1/givenname> "Andrej" .
+<https://github.com/andrej286/vebDom5.git#me> <http://xmlns.com/foaf/0.1/family_name> "Stojanovski" .
+<https://github.com/andrej286/vebDom5.git#me> <http://xmlns.com/foaf/0.1/nick> "Andrush" .
+<https://github.com/andrej286/vebDom5.git#me> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "022bf602c1996fb2667fd0cd833be87a9b628c71" .
+<https://github.com/andrej286/vebDom5.git#me> <http://xmlns.com/foaf/0.1/phone> <tel:071234567> .
+<https://github.com/andrej286/vebDom5.git#me> <http://xmlns.com/foaf/0.1/schoolHomepage> <https://github.com/andrej286/finki.ukim.mk> .
+<https://github.com/andrej286/vebDom5.git#me> <http://xmlns.com/foaf/0.1/knows> _:genid1 .
+<https://github.com/andrej286/vebDom5.git#me> <http://xmlns.com/foaf/0.1/knows> _:genid2 .
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid1 <http://xmlns.com/foaf/0.1/name> "Marko" .
+_:genid1 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "7ad825748a6ae80e532350ec75429629738301f9" .
+_:genid2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid2 <http://xmlns.com/foaf/0.1/name> "Hristina" .
+_:genid2 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "616beec86e8e5215d3b003a99c2f9d8249da08df" 
